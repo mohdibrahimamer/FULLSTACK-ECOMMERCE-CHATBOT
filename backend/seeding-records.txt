@@ -1,0 +1,14 @@
+yaha per record generate karey database ko seed kar k
+
+
+
+Successfully processed & saved record: A123
+Successfully processed & saved record: B456
+Successfully processed & saved record: C789
+Successfully processed & saved record: D012
+Successfully processed & saved record: E345
+Successfully processed & saved record: F678
+Successfully processed & saved record: G901
+Successfully processed & saved record: H234
+Successfully processed & saved record: I567
+Successfully processed & saved record: J890

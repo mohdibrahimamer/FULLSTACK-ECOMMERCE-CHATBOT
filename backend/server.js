@@ -16,6 +16,7 @@ const startServer = async () => {
   try {
     // yaha per mongodb se connection banaye
     await client.connect();
+    // pairing the database
     await client.db("admin").command({ ping: 1 });
     console.log("Connected successfully to server");
 

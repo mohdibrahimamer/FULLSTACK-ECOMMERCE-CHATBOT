@@ -1,3 +1,6 @@
 node_modules
 .env
 project-explanation.txt
+seed-copy.js
+
+retry-for-explanation.txt
